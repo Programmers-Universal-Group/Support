@@ -16,8 +16,8 @@ jobs:
   welcome:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: Programmers-Universal-Group/gh-action-community/src/welcome@main
+      - uses: actions/first-interaction@v1
+      - uses: actions/first-interaction@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: '<h1>It''s great having you contribute to this project</h1> Thank you for raising an <strong>Issue</strong> and welcome to the community :nerd_face:'
