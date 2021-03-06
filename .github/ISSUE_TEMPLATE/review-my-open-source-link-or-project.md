@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Items we can review on a live stream:
+Items we can review on a live stream or meetups:
 
 - GitHub profile
 - Open source project
