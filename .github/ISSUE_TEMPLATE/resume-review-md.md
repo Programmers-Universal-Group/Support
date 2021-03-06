@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Review my Resume
-about: Please review my resume on a live stream or community meetups
-title: ''
-labels: resume review
-assignees: ''
----
-
 **Remove all personal data, otherwise the resume will be deleted.**
 
 Items we can review on a live stream:
@@ -25,4 +17,4 @@ Items we can review on a live stream:
 - Resume
 
 - You can also join the discord community [here](https://discord.gg/Q7BTD58JKr)
-- Feel free to check out other cool repositories of EddieHub Community [here](https://github.com/Programmers-Universal-Group)
+- Feel free to check out other cool repositories of PUG Community [here](https://github.com/Programmers-Universal-Group)
