@@ -17,17 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/first-interaction@v1
-      - uses: actions/first-interaction@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: '<h1>It''s great having you contribute to this project</h1> Thank you for raising an <strong>Issue</strong> and welcome to the community :nerd_face:'
           pr-message: '<h1>It''s great having you contribute to this project</h1> Thank you for creating a <strong>Pull Request</strong> and welcome to the community :nerd_face:'
           footer: 'Join our <a href="https://discord.gg/Q7BTD58JKr">Discord</a> and <a href="https://github.com/Programmers-Universal-Group">GitHub</a> Organisation'
-
-  statistics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - uses: EddieHubCommunity/gh-action-community/src/statistics@main
-        with:
-          firebase-key: ${{ secrets.FIREBASE_KEY }}
