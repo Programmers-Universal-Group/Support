@@ -1,5 +1,5 @@
 <H1 align="center"> Welcome to PUG Comunity Support </H1>
-<a href="https://discord.gg/Q7BTD58JKr" >
+<a href="https://discord.gg/XQbq8KaqVw" >
    <img src="https://img.shields.io/discord/812902492442198047?color=blue&label=Discord&style=for-the-badge">
 </a>
 
@@ -67,7 +67,7 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 
 ## Socials
 
-Join our discord community [here](https://discord.gg/Q7BTD58JKr)   
+Join our discord community [here](https://discord.gg/XQbq8KaqVw)   
 Subscribe our YouTube channel [here](https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A)
 Join our Slack community [](https://programmersun-3sm6019.slack.com/join/shared_invite/zt-kk4bxlty-hDCYelT_GOjmc4HtBIndRg)
 Follow us on Twitter [here](https://twitter.com/ProgrammersUni3)
