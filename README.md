@@ -1,5 +1,5 @@
 <H1 align="center"> Welcome to PUG Comunity Support </H1>
-<a href="https://discord.gg/XQbq8KaqVw" >
+<a href="http://discord.pugroups.in" >
    <img src="https://img.shields.io/discord/812902492442198047?color=blue&label=Discord&style=for-the-badge">
 </a>
 
