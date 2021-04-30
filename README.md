@@ -1,4 +1,7 @@
-<H1 align="center"> Welcome to PUG Comunity Support </H1>
+<H1 align="center"> Welcome to PUG Community Support </H1>
+
+![header-1200](https://user-images.githubusercontent.com/71369943/116652759-77d2d000-a9a3-11eb-9652-5c72fa48b062.gif)
+
 <a href="http://discord.pugroups.in" >
    <img src="https://img.shields.io/discord/812902492442198047?color=blue&label=Discord&style=for-the-badge">
 </a>
